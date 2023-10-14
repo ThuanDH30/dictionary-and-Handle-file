@@ -1,0 +1,8 @@
+Comom\Validation.class
+Main.class
+Model\Person.class
+DataAccess\handlesDao.class
+Controller\handlesController.class
+View\Menu.class
+Responsitory\IhandlesRes.class
+Responsitory\HandlesRes.class
